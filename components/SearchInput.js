@@ -60,13 +60,14 @@ const styles = StyleSheet.create({
     width: 300,
     marginTop: 20,
     backgroundColor: "#666",
-    marginHorizontal: 40,
-    paddingHorizontal: 10,
-    borderRadius: 5
+    marginHorizontal: 12,
+    borderRadius: 5,
+
   },
   textInput: {
     flex: 1,
-    color: "white"
+    color: "white",
+    textAlign : "center"
   }
 });
 
