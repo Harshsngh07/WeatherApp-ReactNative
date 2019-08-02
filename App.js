@@ -63,7 +63,7 @@ class App extends Component {
         <StatusBar barStyle="light-content" />
 
         <ImageBackground
-          source={getImageForWeather("Clear")}
+          source={getImageForWeather(weather)}
           style={styles.imageContainer}
           imageStyle={styles.image}
         >
