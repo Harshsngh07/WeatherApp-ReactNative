@@ -5,4 +5,4 @@
  <h1 align="center">Sasha-Weather</h1>
 <p align="center">A weather app build with React Native</p>
 
-![Demo](demo.gif)
+<p align="center"><img src="demo.gif"></p>
